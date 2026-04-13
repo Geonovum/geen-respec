@@ -1,0 +1,1 @@
+RewriteEngine On\nRewriteRule ^(.*)$ snapshot/$1 [NC,L]\n
