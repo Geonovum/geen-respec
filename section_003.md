@@ -1,7 +1,7 @@
 # Ondersteunde Word-functionaliteit {#2E63D1F3}
 ## Koppenstructuur {#2E987008}
 Alle transformaties in de word2respec-workflow zijn gebaseerd op het gebruik van de stijlen ‘Kop 1’ t/m ‘Kop 9’. Overigens biedt dit veel extra mogelijkheden binnen Word. Het venster ‘Stijlen’ opent (en sluit) u met toetscombinatie Alt+Ctrl-Shift+S.
-<figure id='d10aCbBbBa'><img src='media/image15.png' alt='Picture 2' style='width: 100%;'></img>
+<figure id='d6aCbBbBa'><img src='media/image15.png' alt='Picture 2' style='width: 100%;'></img>
 <figcaption>Navigatie op basis van de koppenstructuur</figcaption></figure>
 
 ## Opsommingen {#10DDDABF}
@@ -13,18 +13,18 @@ Omdat de koppenstructuur, figuurnummers en tabelnummers worden gegenereerd door 
 </ul>
 ### Kruisverwijzingen {#44411ED5}
 Hiervoor gebruikt u de Word-functie ‘Kruisverwijzing’ (Alt+Ctrl+Shift+K). Hiermee kunt u verwijzen naar alle mogelijke genummerde alinea’s.
-<figure id='d10aCdCbBbA'><img src='media/image16.png' alt='Afbeelding met tekst' style='width: 59.99955555884772%;'></img>
+<figure id='d6aCdCbBbA'><img src='media/image16.png' alt='Afbeelding met tekst' style='width: 59.99955555884772%;'></img>
 <figcaption>Scherm ‘Kruisverwijzing’</figcaption></figure>
 
-<figure id='d10aCdCbDbA'><img src='media/image17.png' alt='Afbeelding met tekst' style='width: 100%;'></img>
+<figure id='d6aCdCbDbA'><img src='media/image17.png' alt='Afbeelding met tekst' style='width: 100%;'></img>
 <figcaption>Weergave van een kruiskoppeling in ReSpec</figcaption></figure>
 
 ### Hyperlinks {#0A825EF3}
 Ook hyperlinks worden doorgegeven in de ReSpec-weergave. Met scherm ‘Hyperlink invoegen’ (Ctrl+K) voegt u een hyperlink toe, bijvoorbeeld naar hoofdstuk Repository word2werkversie.
-<figure id='d10aCdDbBbB'><img src='media/image18.png' alt='Afbeelding met tekst' style='width: 100%;'></img>
+<figure id='d6aCdDbBbB'><img src='media/image18.png' alt='Afbeelding met tekst' style='width: 100%;'></img>
 <figcaption>Scherm voor het invoegen en bewerken van hyperlinks</figcaption></figure>
 
-<figure id='d10aCdDbDbA'><img src='media/image19.png' alt='Geen alternatieve tekst beschikbaar' style='width: 100%;'></img>
+<figure id='d6aCdDbDbA'><img src='media/image19.png' alt='Geen alternatieve tekst beschikbaar' style='width: 100%;'></img>
 <figcaption>Weergave van een hyperlink in ReSpec</figcaption></figure>
 
 ## Figuren {#27284A38}
@@ -41,8 +41,8 @@ Tabellen worden volledig door de workflow word2respec ondersteund:
 </ul>
 <br/>
 <br/>
-Als u de alinea boven de tabel (zie <a href='#d10aCfBi'>Tabel 1</a>) markeert met stijl ‘Tabeltitel’ of ‘Bijschrift’, dan wordt de alinea verwerkt als tabeltitel. In de tekst kunt u verwijzen naar de tabeltitel (zie <a href='#44411ED5'>3.3.1</a>). Merk op dat ReSpec in de weergave de tabeltitel niet weergeeft met een nummering. Onderstaand is een voorbeeldtekst.
-<table id='d10aCfBi' style='width: 100%;'><caption>Vergelijking met huidige rechtsfiguren en RO Standaarden</caption>
+Als u de alinea boven de tabel (zie <a href='#d6aCfBi'>Tabel 1</a>) markeert met stijl ‘Tabeltitel’ of ‘Bijschrift’, dan wordt de alinea verwerkt als tabeltitel. In de tekst kunt u verwijzen naar de tabeltitel (zie <a href='#44411ED5'>3.3.1</a>). Merk op dat ReSpec in de weergave de tabeltitel niet weergeeft met een nummering. Onderstaand is een voorbeeldtekst.
+<table id='d6aCfBi' style='width: 100%;'><caption>Vergelijking met huidige rechtsfiguren en RO Standaarden</caption>
 <colgroup><col id='col1' style='width: 35.00117730162467%;'>
 <col id='col2' style='width: 64.99882269837532%;'>
 </colgroup>
@@ -76,6 +76,6 @@ De transformatie ondersteunt niet-complexe voetnoten. Onderstaand is een voorbee
 <br/>
 Op grond van artikel 20.26 lid 2 Omgevingswet worden besluiten en andere rechtsfiguren op grond van die wet die bij ministeriële regeling zijn aangeduid als omgevingsdocument, ontsloten via DSO-LV. De bedoelde ministeriële regeling is de Regeling standaarden publicaties Omgevingswet<span class='noot'>[1]<span class='noottekst'> De Regeling standaarden publicaties Omgevingswet is een ministeriële regeling bij de Bekendmakingswet<br/>
 </span></span>. Deze regeling wijst besluiten en andere rechtsfiguren aan als omgevingsdocument en stelt het verplicht om die omgevingsdocumenten, en ontwerpen daarvan, elektronisch vorm te geven conform de Standaard voor Officiële Publicaties, het InformatieModel Omgevingswet en het voor het betreffende omgevingsdocument voorgeschreven toepassingsprofiel. Ook bevat deze regeling de verplichting om omgevingsdocumenten voor publicatie aan te bieden aan het Bronhouderkoppelvlak van de LVBB.
-<figure id='d10aCgBdBb'><img src='media/image20.png' alt='Picture 2' style='width: 100%;'></img>
+<figure id='d6aCgBdBb'><img src='media/image20.png' alt='Picture 2' style='width: 100%;'></img>
 <figcaption>Respec-weergave van een voetnoot</figcaption></figure>
 

@@ -9,14 +9,14 @@ Een code-blok wordt in Word aangegeven door het hele blok te markeren met menu-o
 <br/>
 <br/>
 Code kan ook binnen een alinea staan. Dan is het voldoende om <code>dit gedeelte</code> te markeren met optie ‘Code’.
-<figure id='d10aDcBpBa'><img src='media/image21.png' alt='Picture 2' style='width: 100%;'></img>
+<figure id='d6aDcBpBa'><img src='media/image21.png' alt='Picture 2' style='width: 100%;'></img>
 <figcaption>Voorbeeld van een code-blok in Word</figcaption></figure>
 
 ## Citaat {#47C7E86B}
 Een citaat wordt aangegeven door de alinea te selecteren en optie ‘Tekstsoorten’, ‘Citaat’ te kiezen.
 <blockquote><p id='1193CB5E'>Dit is een voorbeeld van een citaat.</p></blockquote>
 
-<figure id='d10aDdBcBa'><img src='media/image22.png' alt='Picture 5' style='width: 100%;'></img>
+<figure id='d6aDdBcBa'><img src='media/image22.png' alt='Picture 5' style='width: 100%;'></img>
 <figcaption>Weergave van tekstsoorten ‘Citaat’, ‘Issue’ en ‘Noot’ in Word</figcaption></figure>
 
 ## Issue {#0E8A6FC9}
@@ -32,22 +32,22 @@ Een voorbeeld wordt aangegeven door de alinea te selecteren en optie ‘tekstsoo
 <aside class='example'><p id='26C0A309'>Op grond van artikel 20.26 lid 2 Omgevingswet worden besluiten en andere rechtsfiguren op grond van die wet die bij ministeriële regeling zijn aangeduid als omgevingsdocument, ontsloten via DSO-LV. De bedoelde ministeriële regeling is de Regeling standaarden publicaties Omgevingswet<sup><span class='noot'>[2]<span class='noottekst'> De Regeling standaarden publicaties Omgevingswet is een ministeriële regeling bij de Bekendmakingswet<br/>
 </span></span></sup>. Deze regeling wijst besluiten en andere rechtsfiguren aan als omgevingsdocument en stelt het verplicht om die omgevingsdocumenten, en ontwerpen daarvan, elektronisch vorm te geven conform de Standaard voor Officiële Publicaties, het InformatieModel Omgevingswet en het voor het betreffende omgevingsdocument voorgeschreven toepassingsprofiel. Ook bevat deze regeling de verplichting om omgevingsdocumenten voor publicatie aan te bieden aan het Bronhouderkoppelvlak van de LVBB.</p></aside>
 
-<figure id='d10aDgBcEa'><img src='media/image23.png' alt='Picture 6' style='width: 100%;'></img>
+<figure id='d6aDgBcEa'><img src='media/image23.png' alt='Picture 6' style='width: 100%;'></img>
 <figcaption>Voorbeeld van een voorbeeld in Word</figcaption></figure>
 
 ## Bibliografische referenties {#4083BE20}
 Met menu-optie ‘Document’ tabblad ‘Bibliografie’ (zie <a href='#47906F38'>2.4.4</a>) in de respec-werkbalk kunt u publicaties opgeven waarnaar u met een bibliografische referentie kunt verwijzen. Dit kan door de identifier van de publicatie tussen dubbele rechte haken te plaatsen: [[DONL]]. Respec voegt dan een bijlage toe met normatieve of informatieve referenties, afhankelijk van de opgegeven soort informatie (zie <a href='#1DA7B3C6'>2.4.2</a>).
-<figure id='d10aDhBbBb'><img src='media/image24.png' alt='Afbeelding met tekst, schermafbeelding, binnen' style='width: 100%;'></img>
+<figure id='d6aDhBbBb'><img src='media/image24.png' alt='Afbeelding met tekst, schermafbeelding, binnen' style='width: 100%;'></img>
 <figcaption>Bijlage met normatieve referenties</figcaption></figure>
 
-<figure id='d10aDhBdBa'><img src='media/image25.png' alt='Afbeelding met tekst' style='width: 100%;'></img>
+<figure id='d6aDhBdBa'><img src='media/image25.png' alt='Afbeelding met tekst' style='width: 100%;'></img>
 <figcaption>Als een referentie ontbreekt, geeft ReSpec een foutmelding</figcaption></figure>
 
 ## Index {#248D2221}
-De transformatie ondersteunt het toevoegen van een index (zie <a href='#1DA7B3C6'>2.4.2</a>). Met behulp van menu-optie ‘Index’ kunt u <dfn class='index-term' id='d10aDiBaB'>begrippen</dfn> opnemen die in het register worden opgenomen.
-<figure id='d10aDiBbBb'><img src='media/image26.png' alt='Afbeelding met tekst, schermopname, software, scherm' style='width: 100%;'></img>
+De transformatie ondersteunt het toevoegen van een index (zie <a href='#1DA7B3C6'>2.4.2</a>). Met behulp van menu-optie ‘Index’ kunt u <dfn class='index-term' id='d6aDiBaB'>begrippen</dfn> opnemen die in het register worden opgenomen.
+<figure id='d6aDiBbBb'><img src='media/image26.png' alt='Afbeelding met tekst, schermopname, software, scherm' style='width: 100%;'></img>
 <figcaption>Weergave van een index-markering in Word</figcaption></figure>
 
-<figure id='d10aDiBdDa'><img src='media/image27.png' alt='Afbeelding met tekst, schermopname, software, Computerpictogram' style='width: 100%;'></img>
+<figure id='d6aDiBdDa'><img src='media/image27.png' alt='Afbeelding met tekst, schermopname, software, Computerpictogram' style='width: 100%;'></img>
 <figcaption>Respec-weergave van de index</figcaption></figure>
 
