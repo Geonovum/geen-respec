@@ -9,17 +9,19 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/geen/respec/"
   ],
-  publishDate: "2025-11-17",
-  publishVersion: "1.2.0",
+  publishDate: "2025-07-16",
+  publishVersion: "1.1.0",
   thisVersion: [
-    "https://docs.geostandaarden.nl/geen/basis-bd-respec-20251117/"
+    "https://docs.geostandaarden.nl/geen/basis-bd-respec-20250716/"
   ],
-  previousPublishDate: "2025-07-16",
-  previousPublishVersion: "1.1.0",
+  previousPublishDate: "2023-01-14",
+  previousPublishVersion: "1.0.0",
   prevVersion: [
-    "https://docs.geostandaarden.nl/geen/geen-bd-respec-20250716/"
+    "https://docs.geostandaarden.nl/geen/geen-bd-respec-20230114/"
   ],
   previousMaturity: "geen",
+  github: "https://github.com/geonovum/geen-respec/",
+  issueBase: "https://github.com/geonovum/geen-respec/issues/",
   edDraftURI: "https://geonovum.github.io/geen-respec/",
   canonicalURI: "https://docs.geostandaarden.nl/geen/respec/",
   editors: [
