@@ -30,5 +30,28 @@
         "failureSummary": "Fix any of the following:\n  Element should have focusable content\n  Element should be focusable"
       }
     ]
+  },
+  {
+    "url": "http://localhost:8080/snapshot.html",
+    "id": "target-size",
+    "impact": "serious",
+    "description": "Ensure touch targets have sufficient size and space",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.11/target-size?application=webdriverjs",
+    "nodes": [
+      {
+        "target": [
+          "dd:nth-child(14) > a"
+        ],
+        "html": "<a href=\"https://github.com/geonovum/geen-respec/commits/\">Revisiehistorie</a>",
+        "failureSummary": "Fix any of the following:\n  Target has insufficient size (115.8px by 18px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20.6px instead of at least 24px."
+      },
+      {
+        "target": [
+          "dd:nth-child(15) > a"
+        ],
+        "html": "<a href=\"https://github.com/geonovum/geen-respec/pulls/\">Pull requests</a>",
+        "failureSummary": "Fix any of the following:\n  Target has insufficient size (102.5px by 18px, should be at least 24px by 24px)\n  Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20.6px instead of at least 24px."
+      }
+    ]
   }
 ]
